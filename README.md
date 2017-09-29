@@ -1,6 +1,6 @@
 * Fixed: sorting in queries for the time spent
 2.2.9
- Fixed: fix minor bugs
+* Fixed: fix minor bugs
 2.2.8
 * Added: show cross-project query in certain projects
 2.2.7
